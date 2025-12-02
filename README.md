@@ -4,6 +4,8 @@ Description: Event Management System is a full-stack web application where users
 
 Technologies: Next.js (App Router), React, Firebase Authentication, Node.js, Express.js, MongoDB, JavaScript, HTML, custom CSS (responsive layout with Flexbox/Grid), React Hot Toast.
 
-Github Link:
+Github Link: https://github.com/RAJIABASHIR/event-management-system
+
 Live Link: https://event-management-system-client.netlify.app
+
 Backend server: https://event-management-system-server.vercel.app/api
