@@ -8,4 +8,6 @@ Github Link: https://github.com/RAJIABASHIR/event-management-system
 
 Live Link: https://event-management-system-client.netlify.app
 
+Github Link Server: https://github.com/RAJIABASHIR/event-management-system-server
+
 Backend server: https://event-management-system-server.vercel.app/api
